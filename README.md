@@ -1,0 +1,1 @@
+# Auth.GG C++ Example.
