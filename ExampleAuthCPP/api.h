@@ -221,7 +221,7 @@ namespace auth {
                     return false;
 
                 parseInfo(json);
-                return false;
+                return true;
             }
             catch (...) {
                 return false;
